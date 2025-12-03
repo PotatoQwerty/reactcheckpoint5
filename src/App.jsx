@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 import MovieList from "./components/MovieList";
-import AddMovie from "./components/AddMovie";
 
 import Filter from "./components/Filter";
 
