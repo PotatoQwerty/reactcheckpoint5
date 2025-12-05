@@ -1,26 +1,34 @@
 [
   {
+    "id": 1,
     "title": "Blade Runner 2049",
     "description": "A blade runner uncovers a secret that could destabilize society and goes looking for former blade runner Rick Deckard, missing for decades.",
     "posterURL": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
+    "trailerURL": "https://www.youtube.com/embed/gCcx85zbxz4",
     "rating": 8.1
   },
   {
+    "id": 2,
     "title": "Inception",
     "description": "A thief who steals information through dreams is offered a chance at redemption if he can successfully plant an idea in someone’s mind.",
     "posterURL": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "trailerURL": "https://www.youtube.com/embed/YoHD9XEInc0",
     "rating": 8.8
   },
   {
+    "id": 3,
     "title": "Mad Max: Fury Road",
     "description": "In a desert wasteland, Max teams up with Furiosa to escape a warlord and his army in a relentless high-speed chase.",
     "posterURL": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+    "trailerURL": "https://www.youtube.com/embed/hEJnMQG9ev8",
     "rating": 8.1
   },
   {
+    "id": 4,
     "title": "Arrival",
     "description": "A linguist is recruited to communicate with mysterious aliens before global tensions turn into all-out conflict.",
     "posterURL": "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg",
+    "trailerURL": "https://www.youtube.com/embed/tFMo3UJ4B4g",
     "rating": 7.9
   }
 ]
